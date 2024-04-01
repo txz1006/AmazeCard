@@ -458,7 +458,7 @@ let config = ref({
     watermarkType: 0, // 水印类型
     watermarkImageUrl: '', // 水印图片
     fontFamily: 'xinxihei',
-    watermark: 'AmazeCard',
+    watermark: '船长来了',
 });
 
 
